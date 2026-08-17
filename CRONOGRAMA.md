@@ -19,9 +19,11 @@
 <p>Comecei o trabalho de Implementação de Lista Duplamente Encadeada de Introdução à Estrutura de Dados do João Pedro</p>
 
 <p>Dia 14:</p>
-<p>Não vi no NPI nesse dia</p>
+<p>Não vim no NPI hoje</p>
+
 
 <h2>Semana 17/08 a 21/08</h2>
+<p>Dia 17:</p>
 <p>Fui monitor no Londrinense Tech</p>
 <p>Fiz atividade de Sistemas Digitais do Gustavo sobre Mapa de Karnauh</p>
 <p>Mexi no GitHub e atualizei esse repositório</p>
