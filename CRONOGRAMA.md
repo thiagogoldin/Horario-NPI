@@ -24,5 +24,5 @@
 <h2> <b>Semana 17/08 a 21/08</b> </h2>
 <p> <b>Dia 17:</b> </p>
 <p>Fui monitor no Londrinense Tech</p>
-<p>Fiz atividade de Sistemas Digitais do Gustavo sobre Mapa de Karnauh</p>
+<p>Fiz atividade de Sistemas Digitais do Gustavo sobre Mapa de Karnaugh</p>
 <p>Mexi no GitHub e atualizei esse repositório</p>
