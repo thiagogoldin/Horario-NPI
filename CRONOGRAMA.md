@@ -1,6 +1,6 @@
-<h1>Cronograma do NPI</h1>
+<b>: <h1>Cronograma do NPI</h1>
 
-<b><h2>Semana 10/08 a 14/08</h2>
+<b>: <h2>Semana 10/08 a 14/08</h2>
 <p>Dia 10:</p>
 <p>Fui monitor no Londrinense Tech</p>
 <p>Fiz atividade de Sistema Digitais do Gustavo sobre Soma de Produtos (SOP) e Produto de Somas (POS)</p>
