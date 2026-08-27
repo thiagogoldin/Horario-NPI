@@ -16,7 +16,7 @@
 
 <p> <b>Dia 13:</b> </p>
 <p>Fiz o relatório do Pensamento Computacional da Turma I</p>
-<p>Comecei o trabalho de Introdução à Estrutura de Dados sobre <a ref="https://github.com/thiagogoldin/Lista-Duplamente-Encadeada">Implementação de Lista Duplamente Encadeada</a></p> 
+<p>Comecei o trabalho de Introdução à Estrutura de Dados sobre <a href="https://github.com/thiagogoldin/Lista-Duplamente-Encadeada">Implementação de Lista Duplamente Encadeada</a></p> 
 
 <p> <b>Dia 14:</b> </p>
 <p>Não vim no NPI hoje</p>  
