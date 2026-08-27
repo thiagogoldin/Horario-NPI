@@ -3,7 +3,7 @@
 <h2> <b>Semana 10/08 a 14/08</b> </h2>
 <p> <b>Dia 10:</b> </p>
 <p>Fui monitor no Londrinense Tech na Turma 3</p>
-<p>Fiz atividade de Sistemas Digitais sobre [Soma de Produtos (SOP) e Produto de Somas (POS)](./Sistemas-Digitais-Gustavo-Queiroz-Silveira/10-08-pos-sop.pdf)</p>  
+<p>Fiz atividade de Sistemas Digitais sobre <a href="./Sistemas-Digitais-Gustavo-Queiroz-Silveira/10-08-pos-sop.pdf">Soma de Produtos (SOP) e Produto de Somas (POS)</a></p> 
 
 <p> <b>Dia 11:</b> </p>
 <p>Fui monitor do Pensamento Computacional na Turma B</p>
