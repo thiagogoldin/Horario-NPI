@@ -3,7 +3,7 @@
 <h2> <b>Semana 10/08 a 14/08</b> </h2>
 <p> <b>Dia 10:</b> </p>
 <p>Fui monitor no Londrinense Tech na Turma 3</p>
-<p>Fiz atividade de Sistemas Digitais sobre <a href="./Sistemas-Digitais-Gustavo-Queiroz-Silveira/10-08-pos-sop.pdf">Soma de Produtos (SOP) e Produto de Somas (POS)</a></p> 
+<p>Fiz atividade de Sistema Digitais sobre <a href="./Sistemas-Digitais-Gustavo-Queiroz-Silveira/10-08-pos-sop.pdf">Soma de Produtos (SOP) e Produto de Somas (POS)</a></p> 
 
 <p> <b>Dia 11:</b> </p>
 <p>Fui monitor do Pensamento Computacional na Turma B</p>
@@ -24,7 +24,7 @@
 <h2> <b>Semana 17/08 a 21/08</b> </h2>
 <p> <b>Dia 17:</b> </p>
 <p>Fui monitor no Londrinense Tech na Turma 3</p>
-<p>Fiz atividade sobre Mapa de Karnaugh</p>
+<p>Fiz atividade de Sistema Digitais sobre <a href="./Sistemas-Digitais-Gustavo-Queiroz-Silveira/17-08-mapa-de-karnaugh.pdf">Mapa de Karnaugh</a></p> 
 <p>Mexi no GitHub e atualizei esse repositório</p>
 
 <p> <b>Dia 18:</b> </p>
@@ -40,6 +40,7 @@
 
 <h2> <b>Semana 24/08 a 28/08</b> </h2>
 <p> <b>Dia 24:</b> </p>
+<p>Fiz atividade de Sistemas Digitais sobre <a href="./Sistemas-Digitais-Gustavo-Queiroz-Silveira/24-08-mapa-de-karnaugh-2.pdf">Mapa de Karnaugh 2</a></p></p>
 
 <p> <b>Dia 25:</b> </p>
 
