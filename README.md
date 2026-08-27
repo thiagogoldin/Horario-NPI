@@ -1,4 +1,4 @@
-<h1> <b>Disciplinas do B3 2026</b> </h1>
+<h1> <b>Disciplinas - B3 2026</b> </h1>
 
 <p>Algoritmo e Estrutura de Dados: Introdução à Estrutura de Dados - João Pedro Brustolin Szlachta</p>
 
