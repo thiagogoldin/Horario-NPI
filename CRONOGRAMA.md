@@ -57,7 +57,7 @@
 <p> <b>Dia 26:</b> </p>
 <p>Fui monitor do Pensamento Computacional na Turma I</p>
 <p>Fiz o relatório do Pensamento Computacional da Turma B</p>
-<p>Terminei o <a href="./Sistema-Digitais/31-08-teste-projeto.pdf">teste do projeto</a> de Sistemas Digitais</p>
+<p>Terminei o <a href="./Sistemas-Digitais/31-08-teste-projeto.pdf">teste do projeto</a> de Sistemas Digitais</p>
 
 <p> <b>Dia 27:</b> </p>
 <p>Fiz o relatório do Pensamento Computacional da Turma I</p>
