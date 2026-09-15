@@ -88,7 +88,7 @@
 <p>Dia da Independência do Brasil</p>
 
 <p> <b>Dia 08:</b> </p>
-<p>Fiz a <a href="./Estatística/lsita-estatistica.pdf">lista</a> de Estatística</p>
+<p>Fiz a <a href="./Estatística/lista-estatistica.pdf">lista</a> de Estatística</p>
 
 <p> <b>Dia 09:</b> </p>
 
