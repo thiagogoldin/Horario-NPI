@@ -68,16 +68,17 @@
 <h2> <b>Semana 31/08 a 04/09</b> </h2>
 <p> <b>Dia 31:</b> </p>
 <p>Fui monitor do Londrinense Tech na Turma 3</p>
-
+<p>Finalizei o <a href="https://github.com/retonco/Estrutura-de-Dados">trabalho</a> de Introdução à Estrutura de Dados</p>
 
 <p> <b>Dia 01:</b> </p>
-
+<p>Fiz o relatório do Londrinense Tech</p>
 
 <p> <b>Dia 02:</b> </p>
-
+<p>Fui monitor do Pensamento Computacional na Turma I</p>
 
 <p> <b>Dia 03:</b> </p>
-
+<p>Fiz o relatório do Pensamento Computacional da Turma I</p>
+<p>Estudei para a prova de Complexidade de Algoritmos</p>
 
 <p> <b>Dia 04:</b> </p>
 <p>Não vim no NPI hoje</p>
@@ -88,23 +89,26 @@
 <p>Dia da Independência do Brasil</p>
 
 <p> <b>Dia 08:</b> </p>
-<p>Fiz a <a href="./Estatística/lista-estatistica.pdf">lista</a> de Estatística</p>
+<p>Fiz a <a href="./Estatística/lista-estatistica.pdf">lista</a> de Estatística e estudei para a prova</p>
 
 <p> <b>Dia 09:</b> </p>
-
+<p>Fui monitor do Pensamento Computacional na Turma I</p>
+<p>Estudei para a prova de Banco de Dados Avançado</p>
 
 <p> <b>Dia 10:</b> </p>
-
+<p>Fiz o relatório do Pensamento Computacional da Turma I</p>
 
 <p> <b>Dia 11:</b> </p>
 Não vim no NPI hoje
 
 <h2> <b>Semana 14/09 a 18/09</b> </h2>
 <p> <b>Dia 14:</b> </p>
-
+<p>Fui monitor do Londrinense Tech na Turma 3</p>
+<p>Estudei para a prova de Introdução à Estrutura de Dados</p>
 
 <p> <b>Dia 15:</b> </p>
-
+<p>Atualizei esse repositório</p>
+<p>Fiz o relatório do Londrinense Tech</p>
 
 <p> <b>Dia 16:</b> </p>
 
