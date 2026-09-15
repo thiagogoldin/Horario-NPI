@@ -52,7 +52,7 @@
 <p> <b>Dia 25:</b> </p>
 <p>Fui monitor do Pensamento Computacional na Turma B</p>
 <p>Fiz o relatório do Londrinense Tech</p>
-<p>Mexi no CSS do meu site com coisas que aprendi na aula do Pensamento Computacional</p>
+<p>Mexi no CSS do meu <a href="https://github.com/thiagogoldin/Site-GTA">site</a> com coisas que aprendi na aula do Pensamento Computacional</p>
 
 <p> <b>Dia 26:</b> </p>
 <p>Fui monitor do Pensamento Computacional na Turma I</p>
@@ -99,7 +99,7 @@
 
 <p> <b>Dia 10:</b> </p>
 <p>Fiz o relatório do Pensamento Computacional da Turma I</p>
-<p>Mexi mais no meu site para testar elementos do CSS e contagem regressiva</p>
+<p>Mexi mais no meu <a href="https://github.com/thiagogoldin/Site-GTA">site</a> para testar elementos do CSS e contagem regressiva</p>
 
 <p> <b>Dia 11:</b> </p>
 Não vim no NPI hoje
