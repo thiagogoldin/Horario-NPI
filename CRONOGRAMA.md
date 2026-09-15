@@ -57,6 +57,7 @@
 <p> <b>Dia 26:</b> </p>
 <p>Fui monitor do Pensamento Computacional na Turma I</p>
 <p>Fiz o relatório do Pensamento Computacional da Turma B</p>
+<p>Terminei o <a href="./Sistema-Digitais/31-08-teste-projeto.pdf">teste do projeto</a> de Sistemas Digitais</p>
 
 <p> <b>Dia 27:</b> </p>
 <p>Fiz o relatório do Pensamento Computacional da Turma I</p>
@@ -97,6 +98,7 @@
 
 <p> <b>Dia 10:</b> </p>
 <p>Fiz o relatório do Pensamento Computacional da Turma I</p>
+<p>Mexi mais no meu site para testar elementos do CSS e contagem regressiva</p>
 
 <p> <b>Dia 11:</b> </p>
 Não vim no NPI hoje
@@ -109,6 +111,7 @@ Não vim no NPI hoje
 <p> <b>Dia 15:</b> </p>
 <p>Atualizei esse repositório</p>
 <p>Fiz o relatório do Londrinense Tech</p>
+<p>Estudei para a prova de Sistema Digitais</p>
 
 <p> <b>Dia 16:</b> </p>
 
