@@ -80,6 +80,7 @@
 <p> <b>Dia 03:</b> </p>
 <p>Fiz o relatório do Pensamento Computacional da Turma I</p>
 <p>Estudei para a prova de Complexidade de Algoritmos</p>
+<p>Estudei para a apresentação de Introdução à Estrutura de Dados</p>
 
 <p> <b>Dia 04:</b> </p>
 <p>Não vim no NPI hoje</p>
